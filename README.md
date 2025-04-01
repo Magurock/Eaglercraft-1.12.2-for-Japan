@@ -4,13 +4,15 @@
 
 # 早速プレイ!
 
-[正式版で遊ぶ!](https://magurock.github.io/Eaglercraft-1.12.2-for-Japan/u1/)
+[正式版で遊ぶ!](https://magurock.github.io/Eaglercraft-1.12.2-for-Japan/Play/)
 
 # お知らせ
 
-#### U2準備中
+#### バージョンアップしました
 
-バージョンアップします
+ついでに翻訳を変更しました。
+
+デフォルトのサーバーが増えたみたいです。
 
 #### 正式リリース
 
