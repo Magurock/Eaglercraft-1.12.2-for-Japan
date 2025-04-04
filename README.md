@@ -8,6 +8,14 @@
 
 # お知らせ
 
+#### 移動のお知らせ
+
+しばらくしたら[Eaglercraft-for-Japan](https://magurock.github.io/Eaglercraft-for-Japan/)
+
+にこのページ（とプレイ場所）を移動します
+
+ここはテスト場所になる予定です
+
 #### バージョンアップしました
 
 ついでに翻訳を変更しました。
